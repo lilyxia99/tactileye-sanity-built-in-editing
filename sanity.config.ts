@@ -34,10 +34,10 @@ export default defineConfig({
       home,
       settings,
       // Documents
-      duration,
       page,
       project,
       // Objects
+      duration,
       milestone,
       timeline,
     ],
