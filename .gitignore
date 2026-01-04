@@ -44,3 +44,4 @@ yarn-error.log*
 .env
 studio/.env.development
 next-env.d.ts
+.aider*
